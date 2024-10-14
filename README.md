@@ -10,5 +10,5 @@
 ## link to soc-med
 
 # Disclaimer
-**DIANNE FELIAS**
+**DIANNE ALIARE FELIAS**
 _ABM11_
