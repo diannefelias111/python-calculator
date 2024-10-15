@@ -6,7 +6,7 @@
 # Tech-stack
 
 # About the Author
-## Dianne Felias
+## Picture
 ## link to soc-med https://www.facebook.com/profile.php?id=100080958051207
 
 # Disclaimer
