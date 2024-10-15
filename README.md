@@ -37,6 +37,26 @@ Set up privacy settings according to your preference.
 ### Step 11: Finalize Setup
 Complete the setup prompts, and once you reach the desktop, Windows installation is complete!
 ### Mac -os
+### Create a Bootable USB Drive:
+
+Download the macOS installer from the App Store.
+Insert a USB drive (at least 16 GB).
+Open Terminal and use the following command (replace "MyVolume" with your USB drive name):
+### Boot from USB Drive:
+
+Restart your Mac and hold down the Option (⌥) key while it boots.
+Select the USB drive from the list of startup disks.
+### Erase Your Disk (if needed):
+
+Open Disk Utility from the macOS Utilities window.
+Select your startup disk, click "Erase," choose the format (APFS for newer Macs, Mac OS Extended (Journaled) for older), and confirm.
+### Install macOS:
+
+Close Disk Utility and choose "Install macOS."
+Follow the prompts to complete the installation.
+### Set Up macOS:
+
+After installation, follow the on-screen instructions to set up your Mac.
 
 # Pre-requisites
 # Tech-stack
