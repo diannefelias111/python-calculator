@@ -1,6 +1,6 @@
 # Installation
 ## Window 
-###Step 1: Create Installation Media
+### Step 1: Create Installation Media
 Download the Media Creation Tool from the Microsoft website.
 Run the tool and select "Create installation media (USB flash drive, DVD, or ISO file) for another PC."
 Choose language, edition, and architecture (64-bit or 32-bit).
