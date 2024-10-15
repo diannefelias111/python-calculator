@@ -1,6 +1,6 @@
 # Installation
 ## Window
-### Mac -05
+### Mac -os
 
 # Pre-requisites
 # Tech-stack
