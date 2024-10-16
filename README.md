@@ -29,8 +29,8 @@ brew install --cask visual-studio-code
 ## A modern web browser (e.g., Chrome, Firefox, or Safari)
 # Tech-stack
 ## HTML5
-CSS3
-JavaScript (ES6+)
+## CSS3
+## JavaScript (ES6+)
 
 # About the Author
 ## [Dianne Felias]
