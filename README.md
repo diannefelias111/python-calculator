@@ -4,6 +4,7 @@ git clone https://github.com/yourusername/portfolio-website.git
 ### Navigate to the project directory:
 cd portfolio-website
 ### Open the index.html file in your web browser to view the website locally.
+
 ## Window 
 ### Download and install Git from the official website:
 https://git-scm.com/download/win
@@ -15,6 +16,7 @@ Click the "Download for Windows" button
 Run the installer and follow the prompts
 
 ### Open Command Prompt or PowerShell to verify Git installation
+
 ## Mac os
 ### Install Homebrew (if not already installed):
  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -22,19 +24,22 @@ Run the installer and follow the prompts
 brew install git
 ### Install a text editor of your choice. For Visual Studio Code:
 brew install --cask visual-studio-code
+
 # Pre-requisites
 ## Basic understanding of HTML, CSS, and JavaScript
 ## A text editor (e.g., Visual Studio Code, Sublime Text, or Atom)
 ## Git (for version control)
 ## A modern web browser (e.g., Chrome, Firefox, or Safari)
+
 # Tech-stack
 ## HTML5
 ## CSS3
 ## JavaScript (ES6+)
 
 # About the Author
-## [Dianne Felias]
+## Dianne Felias
 I'm a beginner web developer passionate about creating user-friendly and visually appealing websites. This portfolio is my first step into the world of web development, and I'm excited to learn and grow in this field.
+
 ## Picture
 ## link to soc-med https://www.facebook.com/profile.php?id=100080958051207
 
