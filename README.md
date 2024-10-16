@@ -1,4 +1,9 @@
 # Installation
+### Clone the repository:
+git clone https://github.com/yourusername/portfolio-website.git
+### Navigate to the project directory:
+cd portfolio-website
+### Open the index.html file in your web browser to view the website locally.
 ## Window 
 ## Mac os
 # Pre-requisites
