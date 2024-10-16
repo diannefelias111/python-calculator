@@ -38,7 +38,7 @@ brew install --cask visual-studio-code
 
 # About the Author
 ### I'm Dianne Felias,16 years old,I was born on January 19-2008.
-### I'm a beginner web developer passionate about creating user-friendly and visually appealing websites. This portfolio is my first step into the world of web development, ### and I'm excited to learn and grow in this field.
+### I'm a beginner web developer passionate about creating user-friendly and visually appealing websites. This portfolio is my first step into the world of web development,  and I'm excited to learn and grow in this field.
 
 ## Picture
 ## link to soc-med https://www.facebook.com/profile.php?id=100080958051207
