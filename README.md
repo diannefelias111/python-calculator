@@ -37,7 +37,9 @@ brew install --cask visual-studio-code
 ## JavaScript (ES6+)
 
 # About the Author
-### I'm Dianne Felias,16 years old,I was born on January 19-2008.
+### NAME: Dianne Felias
+### AGE:16 years old
+### BIRTHDATE: January 19-2008.
 ### I'm a beginner web developer passionate about creating user-friendly and visually appealing websites. This portfolio is my first step into the world of web development,  and I'm excited to learn and grow in this field.
 
 ## Picture
@@ -45,5 +47,7 @@ brew install --cask visual-studio-code
 
 # Disclaimer
 ## This website is a personal project and is still in development. The information presented here is for demonstration purposes only and may not reflect my most current skills or projects. Please contact me directly for the most up-to-date information.
+
+
 **DIANNE FELIAS**
 _ABM11_
