@@ -44,7 +44,7 @@ Run the installer and follow the prompts
 - [link to soc-med](https://www.facebook.com/profile.php?id=100080958051207)
 
 # Disclaimer
-## This website is a personal project and is still in development. The information presented here is for demonstration purposes only and may not reflect my most current skills or projects. Please contact me directly for the most up-to-date information.
+### This website is a personal project and is still in development. The information presented here is for demonstration purposes only and may not reflect my most current skills or projects. Please contact me directly for the most up-to-date information.
 
 
 **DIANNE FELIAS**
