@@ -21,7 +21,7 @@ Run the installer and follow the prompts
 ## Install Homebrew (if not already installed):
 ### /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ## Install Git using Homebrew
-###brew install git
+### brew install git
 ## Install a text editor of your choice. For Visual Studio Code:
 ### brew install --cask visual-studio-code
 
